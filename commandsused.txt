@@ -1,0 +1,3 @@
+ 2193  grep "3 real | TwoReal: 0 | ComplexConj: 5" ./*/results.txt
+ 2194  cp ./Check8/parameter_samples/final_parameters_23935 ./Check22
+ 2195  python3 makecenter.py ./Check22/final_parameters_23935 > ./Check22/newestcenter.py
