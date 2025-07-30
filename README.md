@@ -23,18 +23,18 @@ python3 gen.py currentCenter 0.1 100000
 
 Now we can let things launch. I recommend just running the following:
 
-bash run_bertconjsuppressed.sh 100000 & 
+bash run_bertconjsupressed.sh 100000 & 
 
-(in general bash run_bertconjsuppressed.sh numberSampled)
+(in general bash run_bertconjsupressed.sh numberSampled)
 
 
 But we have the options: 
 
-bash run_bertconjsuppressed.sh 100000 & (if you want the process to run in the background, if you made a mistake use ps command to list processes and then kill processNumber).
+bash run_bertconjsupressed.sh 100000 & (if you want the process to run in the background, if you made a mistake use ps command to list processes and then kill processNumber).
 
 bash run_bertconj3.sh 100000 (if you want to see the process run and output for whatever reason, you do you).
 
-bash run_bertconjsuppressedwithstart.sh 100000 (In case you have a problem where your process stops in the middle, run this; it will check the results.txt file and skip reprocessing files that have already been handled).
+bash run_bertconjsupressedwithstart.sh 100000 (In case you have a problem where your process stops in the middle, run this; it will check the results.txt file and skip reprocessing files that have already been handled).
 
 
 
