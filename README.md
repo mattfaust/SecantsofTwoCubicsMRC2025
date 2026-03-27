@@ -6,7 +6,6 @@ First create a new directory (optional) by copying the base Bertini files. For e
 
 cp -r ./Check49 ./Check1 
 
-
 Next let's pick a point to sample arounnd and create a f 
 
 python3 makecenter.py ./exParameters/parameter424 > ./Check1/currentCenter
@@ -19,8 +18,6 @@ python3 gen.py currentCenter 0.1 100000
 
 (in general you would run python3 gen.py centerFile radius numberToSample)
 
-
-
 Now we can let things launch. I recommend just running the following:
 
 bash run_bertconjsupressed.sh 100000 & 
@@ -32,11 +29,9 @@ But we have the options:
 
 bash run_bertconjsupressed.sh 100000 & (if you want the process to run in the background, if you made a mistake use ps command to list processes and then kill processNumber).
 
-bash run_bertconj3.sh 100000 (if you want to see the process run and output for whatever reason, you do you).
+bash run_bertconj3.sh 100000 (if you want to see the process run and output).
 
 bash run_bertconjsupressedwithstart.sh 100000 (In case you have a problem where your process stops in the middle, run this; it will check the results.txt file and skip reprocessing files that have already been handled).
-
-
 
 Output will be be continuously written into ./Check1/results.txt, to look at it (if already in the Check1 directory run)
 
@@ -47,7 +42,6 @@ tail -n 100 results.txt (to see the last 100 lines etc.)
 If you are running it with output suppressed and you are wondering where its at you can run:
 
 wc -l results.txt
-
 
 
 Analysis:
@@ -78,4 +72,3 @@ python3 sort.py
 in order to get an output file "seensort.txt" which sorts the seen.txt triples as the seen.txt file contains the found triples in the order in which they were found.
 
 
-Explanation of Julia code coming later, need to evaluate whether it's even useful or not.
