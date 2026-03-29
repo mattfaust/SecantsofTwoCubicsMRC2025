@@ -1,0 +1,40 @@
+
+  alphaCertified v1.3.0 (October 16, 2013)
+  Jonathan D. Hauenstein and Frank Sottile
+         GMP v6.3.0 & MPFR v4.2.2
+
+NOTE: 'NUMITERATIONS' must be a positive integer. The value 0 has been ignored.
+
+Please note that all coefficients must be complex rational numbers.
+
+alphaCertified is using the polynomial certification algorithms.
+
+Analyzing 40 points using exact arithmetic.
+
+Isolating 40 approximate solutions.
+
+Classifying 40 distinct approximate solutions.
+
+Rational certification results:
+
+Number of points tested:                40
+Certified approximate solutions:        40
+Certified distinct solutions:           40
+Certified real distinct solutions:      20
+
+------------------------------------------------------------------------------------------------------------
+The following files have been created:
+
+approxSolns:          A list of points that are certified approximate solutions.
+constantValues:       A list of the values of alpha, beta, and gamma for the points.
+distinctSolns:        A list of points that correspond to distinct solutions.
+isApproxSoln:         A list which describes if the ith point is an approximate solution.
+isDistinctSoln:       A list which describes if the ith point is listed in 'distinctSolns'.
+isRealSoln:           A list which describes if the ith point corresponds to a real solution.
+nonrealDistinctSolns: A list of points that correspond to distinct nonreal solutions.
+realDistinctSolns:    A list of points that correspond to distinct real solutions.
+redundantSolns:       A list of points that correspond to the same solution as one in 'distinctSolns'.
+refinedPoints:        A list of points that are the best internally computed approximation of each solution.
+summary:              A human-readable summary for each point - main output file.
+unknownPoints:        A list of points that which cannot be certified as approximate solutions.
+------------------------------------------------------------------------------------------------------------

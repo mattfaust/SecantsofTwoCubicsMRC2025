@@ -1,0 +1,20 @@
+
+  alphaCertified v1.3.0 (October 16, 2013)
+  Jonathan D. Hauenstein and Frank Sottile
+         GMP v6.3.0 & MPFR v4.2.2
+
+
+Please note that all coefficients must be complex rational numbers.
+
+alphaCertified is using the polynomial certification algorithms.
+
+Performing 2 Newton iterations on each of the 38 points using exact arithmetic.
+
+
+------------------------------------------------------------------------------------------------------------
+The following files have been created:
+
+constantValues:       A list of the values of alpha, beta, and gamma for the points.
+refinedPoints:        A list of points after the requested Newton iterations.
+summary:              A human-readable summary for each point - main output file.
+------------------------------------------------------------------------------------------------------------

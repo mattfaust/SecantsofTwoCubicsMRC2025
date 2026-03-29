@@ -1,0 +1,717 @@
+Number of variables: 4
+Variables:  t1 t2 s1 s2
+Rank: 4
+-------------------------
+Solution 30 (path number 2)
+Estimated condition number: 7.975397394552420e+14
+Function residual: 9.84001193254787e-17
+Latest Newton residual: 1.12551821788458e-19
+T value at final sample point: 2.168404344971010e-20
+Maximum precision utilized: 96
+T value of first precision increase: 1.117587089538576e-09
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.817836239334080e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  7.849230302116863e-09
+Cycle number: 1
+0.134032274477018948465933466170e1 0.373282588431927487158560097037e-16
+-0.155618583944328437088145525566e0 -0.367209590433193480089531564067e-17
+0.582572991011848517115683948767e3 -0.509493507501453875158097284180e-12
+-0.360868495557518856345282132445e0 -0.132854873573742332247028176872e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 17 (path number 5)
+Estimated condition number: 2.836196396672316e+16
+Function residual: 5.87347962338199e-17
+Latest Newton residual: 5.58599738801683e-48
+T value at final sample point: 1.455191522836690e-12
+Maximum precision utilized: 160
+T value of first precision increase: 3.906250000000000e-04
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  5.691155016606510e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  9.538618669578668e-08
+Cycle number: 1
+0.13414118366943488140623287366829864550261092301019e1 -0.11268042359020489847633507067452992220701215356831e-16
+-0.15821570819584877081362617991585249252968002664640e0 0.13438196156106443700757792496591094595474971439369e-17
+0.51344813186810938551960216737039367297997468229847e0 -0.29407426472326698229085102782421173988156841426917e-17
+0.13868331273050968703210977957138358753306793661752e4 -0.85833944172780182854409680068117841881914995717739e-11
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 13 (path number 13)
+Estimated condition number: 2.823124391539161e+01
+Function residual: 1.110223024625157e-16
+Latest Newton residual: 7.056084484739978e-17
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  4.899345777403061e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.853012069070749e-13
+Cycle number: 1
+1.340889493359468e+00 5.303590582717114e-17
+-1.555038108012787e-01 3.884918708254618e-17
+-3.608574808172227e-01 9.815883815375638e-17
+5.136887488678414e-01 -7.696990021962592e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 18 (path number 16)
+Estimated condition number: 3.823048151575871e+14
+Function residual: 1.24750707017035e-16
+Latest Newton residual: 2.04546713454771e-35
+T value at final sample point: 9.313225746154790e-11
+Maximum precision utilized: 128
+T value of first precision increase: 1.562500000000000e-03
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  1.522259937071160e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  4.498512657663364e-07
+Cycle number: 1
+0.1340322744770189287961895831969823924503e1 0.1043733043277983725199947026296525657079e-15
+-0.1556185839443284596543109593882818576535e0 0.6433240447022623135587680604731541642402e-17
+-0.3608684955575188333139934245098771024388e0 -0.6619588700191517209902546110083435002520e-17
+0.5825729910118826844720681242066686733761e3 -0.3610686239579692098383996341663118723729e-10
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 6 (path number 22)
+Estimated condition number: 4.026164719467736e+01
+Function residual: 1.688305753616065e-16
+Latest Newton residual: 3.900313866352549e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.031604970111667e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.337269304015248e-13
+Cycle number: 1
+1.340889493359469e+00 1.008995017144695e-16
+-1.555038108012791e-01 5.263652579929531e-17
+5.136887488678415e-01 -3.186411558636378e-17
+-3.608574808172228e-01 3.851068392312576e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 1 (path number 25)
+Estimated condition number: 2.839897771500615e+02
+Function residual: 7.850462293418876e-17
+Latest Newton residual: 4.242212675798394e-16
+T value at final sample point: 9.765625000000001e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  4.671519815417745e-15
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  4.368754197462822e-14
+Cycle number: 1
+1.341252286190671e+00 -8.415763028751367e-17
+-1.238420531327765e+00 -1.597181428884681e-17
+4.300924734800885e-01 -6.606099154534235e-17
+-1.745801449998458e+00 4.663782973120607e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 0 (path number 34)
+Estimated condition number: 5.783509322371870e+02
+Function residual: 1.607312808529563e-16
+Latest Newton residual: 1.027570739373251e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  1.093686128476874e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.134557869279937e-13
+Cycle number: 1
+1.340181307255087e+00 -2.182366201714553e-16
+-1.239763572110048e+00 1.795544578437524e-16
+-5.622545119638186e-01 8.330995045428542e-17
+-1.742149135669412e+00 -2.024474138557289e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 10 (path number 35)
+Estimated condition number: 2.323811451615619e+02
+Function residual: 3.195848437634138e-16
+Latest Newton residual: 1.529975285644953e-15
+T value at final sample point: 6.103515625000000e-06
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.175315487452555e-15
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.318751061778254e-14
+Cycle number: 1
+1.341252286190670e+00 8.704708997293880e-18
+-1.238420531327767e+00 -2.659888478900593e-16
+-1.745801449998453e+00 1.337046639429899e-16
+4.300924734800885e-01 4.168850578540669e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 3 (path number 43)
+Estimated condition number: 5.961069864394982e+01
+Function residual: 5.721958498152797e-17
+Latest Newton residual: 6.967268778968597e-17
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  5.294431159399701e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  3.296333715124692e-13
+Cycle number: 1
+1.341019453971651e+00 5.247113049382578e-17
+-1.240173672009137e+00 -5.013816571475846e-17
+4.299726223668208e-01 2.285194390552769e-17
+-5.624239267752853e-01 -1.733649059210614e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 5 (path number 52)
+Estimated condition number: 4.449157354281694e+01
+Function residual: 8.326672684688674e-17
+Latest Newton residual: 5.311915330005064e-17
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.347106075262778e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.832245440611548e-13
+Cycle number: 1
+1.341019453971652e+00 9.338773721837992e-17
+-1.240173672009138e+00 2.412680458018623e-16
+-5.624239267752856e-01 9.284828919016386e-17
+4.299726223668210e-01 2.424403874560730e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 27 (path number 60)
+Estimated condition number: 3.319080115258403e+16
+Function residual: 3.47710805283604e-17
+Latest Newton residual: 4.98700045049245e-19
+T value at final sample point: 3.388131789017200e-22
+Maximum precision utilized: 96
+T value of first precision increase: 7.450580596923826e-10
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.022383966570450e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  3.527546089731732e-06
+Cycle number: 1
+-0.158215708195849079965399462618e0 0.647419628058621836151824912140e-15
+0.134141183669434872599276729844e1 -0.202989451457081185449528657692e-15
+0.138683312730542457229088506306e4 -0.677991139178362235945184250836e-9
+0.513448131868109319149882024806e0 -0.776133622951358590255346006612e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 29 (path number 61)
+Estimated condition number: 4.011851665649313e+14
+Function residual: 3.42171389800675e-17
+Latest Newton residual: 1.68488896366067e-20
+T value at final sample point: 2.168404344971010e-20
+Maximum precision utilized: 96
+T value of first precision increase: 1.490116119384766e-09
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  1.549477522107460e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  3.189746132549993e-09
+Cycle number: 1
+-0.155618583944328446856977046424e0 -0.116765945991561537564964304497e-16
+0.134032274477018939000119902656e1 0.692293763774022754088512052095e-16
+0.582572991011848467471880292567e3 -0.454400759515412188986578882275e-12
+-0.360868495557518828540787227652e0 -0.259877395548054280534041138358e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 39 (path number 62)
+Estimated condition number: 1.950203897308335e+04
+Function residual: 2.372702112874816e-12
+Latest Newton residual: 1.715151805173222e-14
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  2.261369235241165e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.351931315785789e-14
+Cycle number: 1
+-1.555038108012788e-01 -3.547666564748537e-17
+1.340889493359468e+00 -1.467484904040899e-16
+5.136887488678417e-01 -1.969175033448237e-17
+-3.608574808172227e-01 -1.598840001846669e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 11 (path number 107)
+Estimated condition number: 2.339896069340329e+01
+Function residual: 9.714451465470120e-17
+Latest Newton residual: 1.088943930010590e-16
+T value at final sample point: 9.765625000000001e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  7.711977063459651e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  7.687434610317450e-12
+Cycle number: 1
+4.389062861974280e-01 2.108201474114594e+00
+4.389062861974278e-01 -2.108201474114594e+00
+7.590721494343862e-02 5.394968345747987e-01
+7.590721494343845e-02 -5.394968345747987e-01
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 2 (path number 114)
+Estimated condition number: 5.159921143794620e+02
+Function residual: 5.477882094365337e-16
+Latest Newton residual: 2.246176419616981e-15
+T value at final sample point: 2.441406250000000e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  6.899249693115415e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  6.387574700323082e-11
+Cycle number: 1
+1.340181307255087e+00 -7.180113632286110e-16
+-1.239763572110047e+00 -1.640566489266259e-15
+-1.742149135669413e+00 4.259272227732732e-15
+-5.622545119638185e-01 -8.461793675683426e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 34 (path number 121)
+Estimated condition number: 3.064472390129450e+01
+Function residual: 4.906538933386797e-16
+Latest Newton residual: 2.029555760325935e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  2.196560542138047e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  5.683916215259472e-14
+Cycle number: 1
+-1.240173672009138e+00 3.228013235059584e-16
+1.341019453971651e+00 3.202877850374451e-17
+4.299726223668210e-01 -3.225877491596856e-17
+-5.624239267752855e-01 6.055599960426477e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 33 (path number 122)
+Estimated condition number: 1.232359186035825e+02
+Function residual: 1.528888868918467e-15
+Latest Newton residual: 1.113934629517738e-15
+T value at final sample point: 9.765625000000001e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  1.629571422859468e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  6.311469435039392e-14
+Cycle number: 1
+-1.238420531327765e+00 1.883883646679319e-17
+1.341252286190671e+00 -7.260666747414269e-18
+4.300924734800884e-01 6.523747531200998e-18
+-1.745801449998457e+00 2.096635403691352e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 26 (path number 128)
+Estimated condition number: 2.006702040096519e+01
+Function residual: 5.659772945977665e-16
+Latest Newton residual: 1.418233985078909e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  5.083037177378137e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.604221030133752e-13
+Cycle number: 1
+-1.240173672009137e+00 -3.362929798850581e-17
+1.341019453971651e+00 7.343327391922501e-17
+-5.624239267752855e-01 -4.521075358679862e-17
+4.299726223668209e-01 -8.123193961256084e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 24 (path number 134)
+Estimated condition number: 1.956475310571618e+02
+Function residual: 8.881784197001252e-16
+Latest Newton residual: 2.010024132905641e-15
+T value at final sample point: 6.103515625000000e-06
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.280328609343943e-15
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.673874638311535e-14
+Cycle number: 1
+-1.239763572110046e+00 3.930909630877065e-16
+1.340181307255089e+00 7.438687949522028e-16
+-1.742149135669416e+00 -2.259744337129613e-15
+-5.622545119638184e-01 6.240212453768482e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 36 (path number 160)
+Estimated condition number: 1.468443942230532e+02
+Function residual: 4.373771479125256e-15
+Latest Newton residual: 1.644333415433173e-15
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  4.166411264745899e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  5.607647725644808e-13
+Cycle number: 1
+-1.241142203480114e+00 1.960450368192685e-16
+-1.552920113262281e-01 5.057935989268094e-17
+1.229599082365982e-01 -5.588906286818597e-17
+-2.885298649194357e-01 5.748751492125070e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 19 (path number 161)
+Estimated condition number: 1.916629357338572e+01
+Function residual: 7.473417450352271e-17
+Latest Newton residual: 1.724312772192616e-16
+T value at final sample point: 9.765625000000001e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.990571308237851e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  3.526340454795951e-12
+Cycle number: 1
+4.389062861974274e-01 2.108201474114595e+00
+4.389062861974282e-01 -2.108201474114595e+00
+7.590721494343843e-02 -5.394968345747988e-01
+7.590721494343856e-02 5.394968345747987e-01
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 31 (path number 162)
+Estimated condition number: 4.456790275327752e+01
+Function residual: 1.694681897310007e-15
+Latest Newton residual: 7.121149925367343e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  1.129520302538999e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.584138640596208e-13
+Cycle number: 1
+-1.239427924000500e+00 -5.989373362817098e-18
+-1.564485462803452e-01 1.043811065842745e-16
+1.228322518634820e-01 1.616033934632972e-17
+-8.950624964004306e-01 -1.576084992230285e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 35 (path number 168)
+Estimated condition number: 5.885863583663566e+01
+Function residual: 3.972054645195637e-15
+Latest Newton residual: 2.167562663206411e-15
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  4.213203510710433e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  8.408502337545354e-12
+Cycle number: 1
+-1.239427924000501e+00 1.016812732164989e-17
+-1.564485462803452e-01 -1.778463877077810e-16
+-8.950624964004308e-01 -7.505175029759778e-17
+1.228322518634823e-01 -3.505697274391061e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 22 (path number 169)
+Estimated condition number: 2.134704992953296e+02
+Function residual: 9.485749680535094e-16
+Latest Newton residual: 2.786846029862901e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  6.487318235236609e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  3.449114875533798e-13
+Cycle number: 1
+-1.239763572110047e+00 1.565427999035689e-16
+1.340181307255087e+00 -2.048228802435840e-16
+-5.622545119638187e-01 1.158624396556105e-16
+-1.742149135669412e+00 2.054773031076166e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 25 (path number 170)
+Estimated condition number: 5.996003018238597e+01
+Function residual: 3.140184917367550e-15
+Latest Newton residual: 1.377433772346880e-15
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  7.095586103603761e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.854667854288214e-12
+Cycle number: 1
+-1.239691254425127e+00 -1.430147031623826e-16
+-1.557046035662297e-01 2.374609825322473e-16
+-8.951155088681797e-01 -5.140851725753297e-17
+-2.884741146679847e-01 -5.028293945788931e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 23 (path number 174)
+Estimated condition number: 6.270165264707986e+01
+Function residual: 1.047382306668854e-15
+Latest Newton residual: 8.434801838036378e-17
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  7.777099410169396e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.208903526986445e-13
+Cycle number: 1
+-1.239691254425127e+00 9.922623115863667e-17
+-1.557046035662301e-01 1.328811050444921e-17
+-2.884741146679843e-01 9.220584381615870e-17
+-8.951155088681799e-01 1.338402162401717e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 32 (path number 177)
+Estimated condition number: 2.176439970602438e+02
+Function residual: 1.277435102805346e-15
+Latest Newton residual: 9.782786735189329e-15
+T value at final sample point: 6.103515625000000e-06
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  7.065756787731808e-15
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.932988407028708e-14
+Cycle number: 1
+-1.238420531327763e+00 6.893715812587982e-16
+1.341252286190672e+00 5.171319039125835e-16
+-1.745801449998461e+00 -1.844588673976666e-15
+4.300924734800892e-01 9.106045264001811e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 15 (path number 184)
+Estimated condition number: 1.950230708197434e+16
+Function residual: 3.93217788656171e-17
+Latest Newton residual: 2.78366071403418e-48
+T value at final sample point: 1.455191522836690e-12
+Maximum precision utilized: 160
+T value of first precision increase: 3.906250000000000e-04
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.827496868726070e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  6.420674450122582e-08
+Cycle number: 1
+-0.15821570819584876449571250720865858225100007741815e0 0.46783667874283403963140994490318955301682681587068e-17
+0.13414118366943485643915539982804198472476568097448e1 0.28674575892060693257464646615290639531382779893443e-16
+0.51344813186810940357552754810859048154006129856809e0 -0.74780081887770508154170134117968543253356555016700e-17
+0.13868331273050968364414813892746222383603802569926e4 -0.85688089121446150759393395284495711167994470172148e-11
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 12 (path number 187)
+Estimated condition number: 2.234258948870296e+01
+Function residual: 5.551115123125783e-17
+Latest Newton residual: 5.434112769222016e-17
+T value at final sample point: 9.765625000000001e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  2.367113970728977e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.222652346221441e-12
+Cycle number: 1
+4.389062861974277e-01 -2.108201474114596e+00
+4.389062861974280e-01 2.108201474114596e+00
+7.590721494343858e-02 5.394968345747988e-01
+7.590721494343849e-02 -5.394968345747988e-01
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 38 (path number 193)
+Estimated condition number: 3.726243883364652e+02
+Function residual: 5.912393666071813e-15
+Latest Newton residual: 1.381700682676730e-15
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  9.488283986281478e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.109004999858857e-12
+Cycle number: 1
+-1.555038108012787e-01 -6.890951517022761e-17
+1.340889493359468e+00 8.997859429011885e-17
+-3.608574808172227e-01 -1.284770865516346e-17
+5.136887488678414e-01 -6.120078182671722e-18
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 16 (path number 196)
+Estimated condition number: 2.496490466061658e+14
+Function residual: 9.34971271129947e-17
+Latest Newton residual: 1.27274094565149e-35
+T value at final sample point: 9.313225746154790e-11
+Maximum precision utilized: 128
+T value of first precision increase: 1.562500000000000e-03
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  9.470932240892671e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.804641676188460e-07
+Cycle number: 1
+-0.1556185839443284561179895364825481066565e0 0.1329874037969756217649291024840917705587e-16
+0.1340322744770189529069020603808143285675e1 0.2123819262956559916746373384730913973147e-16
+-0.3608684955575188395768599053462726523180e0 -0.2346823506182793217968761848528838593408e-17
+0.5825729910118829851770249343456407761508e3 -0.3611276151817003567694359520017353707433e-10
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 9 (path number 197)
+Estimated condition number: 2.762444827374274e+01
+Function residual: 7.152448122690996e-17
+Latest Newton residual: 5.147949003143409e-17
+T value at final sample point: 9.765625000000001e-05
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  4.593559243944150e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  4.724016191062490e-12
+Cycle number: 1
+4.389062861974284e-01 -2.108201474114597e+00
+4.389062861974271e-01 2.108201474114596e+00
+7.590721494343859e-02 -5.394968345747988e-01
+7.590721494343855e-02 5.394968345747989e-01
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 7 (path number 202)
+Estimated condition number: 6.176569159350926e+01
+Function residual: 2.482534153247273e-16
+Latest Newton residual: 2.201364723277686e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  2.804880476837446e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.184401151206719e-13
+Cycle number: 1
+-1.564485462803457e-01 -8.306288500406242e-17
+-1.239427924000500e+00 5.472177858097025e-17
+1.228322518634820e-01 -2.785563735612330e-17
+-8.950624964004305e-01 7.553114063934340e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 21 (path number 210)
+Estimated condition number: 3.296425424363913e+01
+Function residual: 3.265153280995946e-16
+Latest Newton residual: 7.550811713574673e-17
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  1.527380272628897e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  4.438119019236921e-13
+Cycle number: 1
+-1.552920113262279e-01 4.550352330713340e-17
+-1.241142203480114e+00 5.729388904962345e-17
+-2.885298649194357e-01 4.686348619765333e-17
+1.229599082365982e-01 -2.207039953845862e-18
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 4 (path number 211)
+Estimated condition number: 1.122737918950154e+02
+Function residual: 1.110223024625157e-16
+Latest Newton residual: 1.396373755781367e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.008607177035071e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  1.395465030484607e-13
+Cycle number: 1
+-1.557046035662301e-01 -2.560878340064457e-17
+-1.239691254425127e+00 1.914013021985671e-16
+-2.884741146679846e-01 4.992959257727992e-17
+-8.951155088681798e-01 1.292729549172465e-16
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 28 (path number 216)
+Estimated condition number: 5.193499361369039e+16
+Function residual: 1.08475561219885e-17
+Latest Newton residual: 5.21742494173937e-19
+T value at final sample point: 3.388131789017200e-22
+Maximum precision utilized: 96
+T value of first precision increase: 2.980232238769530e-09
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  5.911451305654940e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  6.895720906197739e-06
+Cycle number: 1
+0.134141183669434874619489759286e1 -0.197250308794935828594008398976e-15
+-0.158215708195849080242078698790e0 0.653162043446664418210983471135e-15
+0.138683312730542411071207397092e4 -0.678025660540201555437675763074e-9
+0.513448131868109397771418668516e0 -0.199888747952455913868447369072e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 37 (path number 222)
+Estimated condition number: 1.476534881613368e+02
+Function residual: 3.972054645195637e-15
+Latest Newton residual: 6.724433316673264e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  3.427313682026529e-13
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  4.596701222660541e-13
+Cycle number: 1
+-1.241142203480114e+00 -1.428237889432259e-16
+-1.552920113262281e-01 -4.736617629118853e-18
+-2.885298649194358e-01 -1.238942236147952e-17
+1.229599082365983e-01 1.920194593486072e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 14 (path number 223)
+Estimated condition number: 4.263233197300853e+01
+Function residual: 1.144917494144693e-16
+Latest Newton residual: 1.728001191795000e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  2.160518413145882e-14
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  6.962146974830722e-14
+Cycle number: 1
+-1.552920113262281e-01 -9.515103980811630e-17
+-1.241142203480114e+00 -1.072607787718867e-16
+1.229599082365982e-01 2.560477009162658e-18
+-2.885298649194357e-01 -1.873232323842754e-17
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 20 (path number 232)
+Estimated condition number: 4.992313975722714e+01
+Function residual: 4.782987168225453e-15
+Latest Newton residual: 4.779495791546518e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  7.823899457591291e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  2.690950676934833e-11
+Cycle number: 1
+-1.564485462803452e-01 -4.647511109276511e-16
+-1.239427924000500e+00 3.530769410764982e-16
+-8.950624964004305e-01 -8.462424141754281e-17
+1.228322518634826e-01 2.425160473182349e-15
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+Solution 8 (path number 234)
+Estimated condition number: 1.038174503754379e+02
+Function residual: 4.639085208374678e-15
+Latest Newton residual: 5.681361134937222e-16
+T value at final sample point: 3.906250000000000e-04
+Maximum precision utilized: 52
+T value of first precision increase: 0.000000000000000e+00
+Accuracy estimate, internal coordinates (difference of last two endpoint estimates):  7.719328160804934e-12
+Accuracy estimate, user's coordinates (after dehomogenization, if applicable):  3.224057670669244e-11
+Cycle number: 1
+-1.557046035662291e-01 5.718245730637195e-16
+-1.239691254425128e+00 -2.345210452867380e-16
+-8.951155088681799e-01 4.703741311047573e-17
+-2.884741146679858e-01 -3.641021357409476e-15
+Paths with the same endpoint, to the prescribed tolerance:  
+Multiplicity: 1
+-------------------------
+At tol=1.000000000000e-10, there appear to be 40 solutions.
+
+
+*************** input file needed to reproduce this run ***************
+
+CONFIG
+
+CoeffBound: 2.648926000000e+01;
+CondNumThreshold: 1.000000000000e+250;
+RandomSeed: 1774640315;
+
+END;
+
+INPUT
+
+variable_group t1,t2,s1,s2;
+function f1,f2,f3,f4;
+f1=(-1.165978635606715+0.05320856095735182*s1+13.03437762799481*s1^2+7.425121790886403*s1^3)-(t1+t2)*(0.3287552377292698+1.268714585428557*s1+2.964433265066242*s1^2+6.281283697507289*s1^3)+(t1*t2);
+f2=(0.05320856095735182+13.03437762799481*(s1+s2)+7.425121790886403*(s1^2+s1*s2+s2^2))-(t1+t2)*(1.268714585428557+2.964433265066242*(s1+s2)+6.281283697507289*(s1^2+s1*s2+s2^2));
+f3=(0.8752493489058841+2.129358494501894*s1+4.258485213581472*s1^2+10.12696995093205*s1^3)-(t1^2+t1*t2+t2^2)*(0.3287552377292698+1.268714585428557*s1+2.964433265066242*s1^2+6.281283697507289*s1^3)+(t1*t2*(t1+t2));
+f4=(2.129358494501894+4.258485213581472*(s1+s2)+10.12696995093205*(s1^2+s1*s2+s2^2))-(t1^2+t1*t2+t2^2)*(1.268714585428557+2.964433265066242*(s1+s2)+6.281283697507289*(s1^2+s1*s2+s2^2));
+
+END;
+
+
+*************** version information ***************
+Bertini(TM) v1.7.0
+GMP v6.3.0, MPFR v4.2.2
+
+Authors:
+D.J. Bates, J.D. Hauenstein,
+A.J. Sommese, C.W. Wampler
+

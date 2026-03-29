@@ -1,0 +1,26 @@
+File: refinedPoints_certified_closed_float
+tol = 1e-08
+solutions_read = 40
+solutions_kept = 40
+
+Counts by solution:
+  TOTALLY  8
+  PARTIAL  16
+  MINIMAL  0
+  NONREAL  16
+  ANOMALY  0
+
+Raw orbit multiplicity histogram:
+  mult=4: 10
+
+orbits(lines) = 10  (raw orbits = 10)
+orbit_mult_min = 4
+orbit_eps = 3e-07
+Counts by orbit/line:
+  TOTALLY  2
+  PARTIAL  4
+  MINIMAL  0
+  NONREAL  4
+  ANOMALY  0
+
+Wrote orbit representatives to: refinedPoints_certified_closed_float_orbit_reps.txt
