@@ -1,4 +1,4 @@
-Guide to randomly sample around a given point:
+# Guide to randomly sample around a given point:
 
 Example code (inside the main directory SecantsofTwoCubicsMRC2025):
 
