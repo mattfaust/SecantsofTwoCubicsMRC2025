@@ -1,74 +1,36 @@
-# Guide to randomly sample around a given point:
+# Common Real Secants of a Pair of Real Twisted Cubic Curves
 
-Example code (inside the main directory SecantsofTwoCubicsMRC2025):
+This repository accompanies the paper [https://arxiv.org/abs/2603.25003](https://arxiv.org/abs/2603.25003). 
 
-First create a new directory (optional) by copying the base Bertini files. For example, use Check49 as a template:
+It provides: 
 
-cp -r ./Check49 ./Check1 
+1. Explicit parameter examples of different configurations of common real secant lines to a pair of real twisted cubic curves. The solutions were certified using [alphaCertified](https://franksottile.github.io/research/stories/alphaCertified/index.html).
+2. Data verifying that the monodromy group of the ten secant lines is the full symmetric group, certified using [CertifiedHomotopyTracking.jl](https://github.com/klee669/CertifiedHomotopyTracking.jl).
 
-Next let's pick a point to sample arounnd and create a f 
+## Classification
 
-python3 makecenter.py ./exParameters/parameter424 > ./Check1/currentCenter
+Let $C_1$ and $C_2$ be real twisted cubic curves in $\mathbb{P}^{3}$, and let $\ell$ a common real secant line to both curves. The intersection of $\ell$ with each curve determines its type:
 
-Next we can generate a bunch of points around our point in a prescribed radious. First enter the directory, and then generate the points.
+   1. Totally real: both $C_1\cap \ell$ and $C_2\cap \ell$ consist of two real points,
+   
+   2. Partially real: one intersection is real and the other is a pair of nonreal complex conjugate points,
+   
+   3. Minimally real: both intersections consist of nonreal complex conjugate pairs.
 
-cd Check1
+## Counting Secant Lines
 
-python3 gen.py currentCenter 0.1 100000
+For a generic pair of real twisted cubics, there are exactly 10 common secant lines. We represent their distribution using a $3$-tuple $(n_t,n_p,n_m)$ where $n_t$, $n_p$, and $n_m$ are the number of totally real, partially real, and minimally real common secant lines, respectively. 
 
-(in general you would run python3 gen.py centerFile radius numberToSample)
+The total number of common real secant lines is $n_{\mathbb{R}}$ $: = n_t+n_p+n_m$, and the number of common nonreal secant lines is $10-n_{\mathbb{R}}$. Since nonreal solutions occur in complex conjugate pairs, $n_{\mathbb{R}}$ must be even, with $n_t,n_p,n_m\in$ {0,1,...,10}.
 
-Now we can let things launch. I recommend just running the following:
+A 3-tuple $(n_{t},n_{p},n_{m})$ is admissible if $n_{t},n_{p},n_{m} \in$ {0,1,...,10} and $n_{\mathbb{R}}$ is even and at most 10. There are a total of $161$ distinct admissible $3$-tuples $(n_t,n_p,n_m)$. An admissible $3$-tuple $(n_{t},n_{p},n_{m})$ is realizable if there exists real twisted cubic curves $C_{1},C_{2}$ whose $10$ common secant lines yield that distribution.
 
-bash run_bertconjsupressed.sh 100000 & 
+## Repository Structure
 
-(in general bash run_bertconjsupressed.sh numberSampled)
+`100000_run` contains the 100000 parameters studied in the paper [https://arxiv.org/abs/2603.25003](https://arxiv.org/abs/2603.25003).
 
+`example_parameters` contains the explicit parameters realizing specific 3-tuples
 
-But we have the options: 
+`Monodromy_computation.txt` contains the certification data for the monodromy group
 
-bash run_bertconjsupressed.sh 100000 & (if you want the process to run in the background, if you made a mistake use ps command to list processes and then kill processNumber).
-
-bash run_bertconj3.sh 100000 (if you want to see the process run and output).
-
-bash run_bertconjsupressedwithstart.sh 100000 (In case you have a problem where your process stops in the middle, run this; it will check the results.txt file and skip reprocessing files that have already been handled).
-
-Output will be be continuously written into ./Check1/results.txt, to look at it (if already in the Check1 directory run)
-
-tail results.txt (to see 10 lines)
-
-tail -n 100 results.txt (to see the last 100 lines etc.)
-
-If you are running it with output suppressed and you are wondering where its at you can run:
-
-wc -l results.txt
-
-
-Analysis:
-
-In order to process the data, in the main directory you can run:
-
-bash updateseensupressed.sh
-
-This will go through all results.txt files in the main directory and any subdirectory and add any new triples found onto the seen.txt list
-
-
-You can also run:
-
-bash count_all_trips.sh to actually enumerate the total number of each triple that you have found. This is output to the file triple_counts.txt.
-
-You can run:
-
-python3 tripsvisual2.py seen.txt 
-
-in order to visualize the triples that have been found.
-
-
-
-You can run:
-
-python3 sort.py 
-
-in order to get an output file "seensort.txt" which sorts the seen.txt triples as the seen.txt file contains the found triples in the order in which they were found.
-
-
+`local_sampling_guide.txt` is the guide to randomly sample around a given point
