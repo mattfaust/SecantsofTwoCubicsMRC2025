@@ -64,3 +64,15 @@ A 3-tuple $(n_{t},n_{p},n_{m})$ is admissible if $n_{t},n_{p},n_{m} \in$ {0,1,..
 `Monodromy_computation.txt` contains the certification data for the monodromy group
 
 `local_sampling_guide.txt` is the guide to randomly sample around a given point
+
+## Running a single parameter instance
+
+**Basic computation (Bertini only):**
+```bash
+./run_one_point.sh parameter_file.txt
+```
+**With certification (optional):**
+```bash
+./run_one_point_with_optional_alpha.sh parameter_file.txt --alpha
+```
+The file `parameter_file.txt` should contain 16 numeric values (with no headers), corresponding to the coefficients `m11, ..., m44`, one per line.
