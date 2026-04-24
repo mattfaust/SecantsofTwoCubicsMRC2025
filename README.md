@@ -21,7 +21,7 @@ variable_group t1, t2, s1, s2;
 
 function f1, f2, f3, f4;
 
-constant  m11,m12,m13,m14,
+variable  m11,m12,m13,m14,
           m21,m22,m23,m24,
           m31,m32,m33,m34,
           m41,m42,m43,m44;
