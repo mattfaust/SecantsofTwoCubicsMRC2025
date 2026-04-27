@@ -37,6 +37,57 @@ f4 = m41 + m42*s2 + m43*s2^2 + m44*s2^3 - (t1^2 + t1*t2 + t2^2)*(m21 + m22*s2 + 
 END;
 ```
 
+The following is an example of a Bertini input file that yields 10 totally real secant lines.
+
+```
+CONFIG
+condnumthreshold:1e250;
+TRACKTYPE: 0;
+PARAMETERHOMOTOPY: 0;
+END;
+
+INPUT
+
+variable_group t1, t2, s1, s2;
+
+function f1, f2, f3, f4;
+
+constant  m11,m12,m13,m14,
+          m21,m22,m23,m24,
+          m31,m32,m33,m34,
+          m41,m42,m43,m44;
+
+m11 = 1;
+m12 = 0;
+m13 = 0;
+m14 = 0;
+
+m21 = 1.4351;
+m22 = 0.6797;
+m23 = 3.9435; 
+m24 = 7.7238; 
+
+m31 = -1.3085; 
+m32 = 4.6694; 
+m33 = 13.1949; 
+m34 = 5.1509; 
+
+m41 = 1.1573; 
+m42 = 1.2007;
+m43 = 5.7272; 
+m44 = 8.6591; 
+
+f1 = m31 + m32*s1 + m33*s1^2 + m34*s1^3 - (t1 + t2)*(m21 + m22*s1 + m23*s1^2 + m24*s1^3) + t1*t2*(m11 + m12*s1 + m13*s1^2 + m14*s1^3);
+
+f2 = m31 + m32*s2 + m33*s2^2 + m34*s2^3 - (t1 + t2)*(m21 + m22*s2 + m23*s2^2 + m24*s2^3) + t1*t2*(m11 + m12*s2 + m13*s2^2 + m14*s2^3);
+
+f3 = m41 + m42*s1 + m43*s1^2 + m44*s1^3 - (t1^2 + t1*t2 + t2^2)*(m21 + m22*s1 + m23*s1^2 + m24*s1^3) + t1*t2*(t1 + t2)*(m11 + m12*s1 + m13*s1^2 + m14*s1^3);
+
+f4 = m41 + m42*s2 + m43*s2^2 + m44*s2^3 - (t1^2 + t1*t2 + t2^2)*(m21 + m22*s2 + m23*s2^2 + m24*s2^3) + t1*t2*(t1 + t2)*(m11 + m12*s2 + m13*s2^2 + m14*s2^3);
+
+END;
+```
+
 ## Classification
 
 Let $C_1$ and $C_2$ be real twisted cubic curves in $\mathbb{P}^{3}$, and let $\ell$ a common real secant line to both curves. The intersection of $\ell$ with each curve determines its type:
